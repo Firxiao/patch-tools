@@ -1,0 +1,6 @@
+windows:
+    keyword: w
+    ports:
+      - 3389
+    services:
+      - TermService

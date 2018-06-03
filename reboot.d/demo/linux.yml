@@ -1,0 +1,6 @@
+linux:
+    keyword: u
+    ports:
+      - 22
+    services:
+      - sshd
