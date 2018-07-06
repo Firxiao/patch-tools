@@ -7,7 +7,7 @@ This is a tool to patching linux or windows system via salt python client.
 - saltstack
 - python
 
-## Feather
+## Feature
 
 - friendly report of patching and summary.
 - reboot minion with checking services and ports
@@ -20,7 +20,7 @@ and nodegroup's name must cotain win or linux
 
 Example:
 
-```
+```
 win-noprod
 linux-prod
 ```
